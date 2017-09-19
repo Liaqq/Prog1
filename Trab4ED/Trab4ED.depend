@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1505748397 source:c:\users\liakh\documents\trab4ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
